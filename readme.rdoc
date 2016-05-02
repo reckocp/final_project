@@ -4,4 +4,16 @@ Assembly Point
 
 That's the number of people who voted in the 2014 mid-term election in the United States. Following a presidential election, most people don't think about politics or voting again for another four years. The fact is, many very powerful people are put into office following these elections, and these are people that have a real effect on your every day life.
 
-We need to provide every person with the resources and knowledge to make an educated decision about who will be representing them not only on a national level, but also within their own states and communities. Assembly Point will bring together people to discuss and read information regarding their representatives, as well as provide them with ways in which they themselves can contact their elected officials to influence legislation. 
+We need to provide every person with the resources and knowledge to make an educated decision about who will be representing them not only on a national level, but also within their own states and communities. Assembly Point will bring together people to discuss and read information regarding their representatives, as well as provide them with ways in which they themselves can contact their elected officials to influence legislation.
+
+Data Models:
+Users(username:string, zip code:string, political party:string)
+Comments(body:text)
+Location(city:string, state:string, zip:string)
+Politicians(name:string, political party:string)
+Posts (title:string, body:text)
+Messages (title:string, body:text)
+
+
+Balsamiq: https://reckocp.mybalsamiq.com/projects/finalproject/grid
+Trello: https://trello.com/b/9QYHZIZa/final-project
